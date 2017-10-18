@@ -7,5 +7,5 @@
 
 
 ## Observaciones
-1 parece facil.
-2 espero que salga bien.
+1. parece facil.
+2. espero que salga bien.
