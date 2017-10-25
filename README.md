@@ -9,3 +9,9 @@
 ## Observaciones
 1. parece facil.
 2. espero que salga bien.
+
+## Esto es lo primero que añado en local
+- Estos son los siguientes comandos que vamos a ver
+	- git status
+	- git add
+	- git commit -m
