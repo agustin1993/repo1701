@@ -11,7 +11,7 @@
 2. espero que salga bien.
 
 ## Esto es lo primero que añado en local
-- Estos son los siguientes comandos que vamos a ver
+- Vamos a ver lo sguiente
 	- git status
 	- git add
 	- git commit -m
